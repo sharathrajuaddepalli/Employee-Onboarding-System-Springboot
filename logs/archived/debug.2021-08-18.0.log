@@ -1,0 +1,62 @@
+2021-08-18 08:37:41 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 17764 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-18 08:37:41 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 08:37:41 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 08:37:59 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 19.087 seconds (JVM running for 24.08)
+2021-08-18 08:45:00 [http-nio-8082-exec-4] INFO  c.l.e.controller.EmployeeController -
+                saving the employee details47
+2021-08-18 08:45:00 [http-nio-8082-exec-4] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-18 08:45:00 [http-nio-8082-exec-4] INFO  c.l.e.service.DemographicsService -
+                save Demographics called successfully when savingLIS2409
+2021-08-18 08:51:52 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 20148 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-18 08:51:52 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 08:51:52 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 08:52:05 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 13.244 seconds (JVM running for 16.744)
+2021-08-18 08:52:20 [http-nio-8082-exec-2] ERROR c.l.e.e.GlobalExceptionHandler -
+                Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Object> com.lister.employeeonboardingsystem.controller.HrController.addLoginInfo(com.lister.employeeonboardingsystem.voobject.InviteInput) with 3 errors: [Field error in object 'inviteInput' on field 'email': rejected value [null]; codes [NotNull.inviteInput.email,NotNull.email,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.email,email]; arguments []; default message [email]]; default message [must not be null]] [Field error in object 'inviteInput' on field 'name': rejected value [null]; codes [NotNull.inviteInput.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.name,name]; arguments []; default message [name]]; default message [must not be null]] [Field error in object 'inviteInput' on field 'password': rejected value [null]; codes [NotNull.inviteInput.password,NotNull.password,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.password,password]; arguments []; default message [password]]; default message [must not be null]] 
+2021-08-18 08:52:20 [http-nio-8082-exec-2] ERROR c.l.e.e.GlobalExceptionHandler -
+                error found{timestamp=2021-08-18T08:52:20.199, status=400, errors=[must not be null, must not be null, must not be null]}
+2021-08-18 08:54:27 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 9256 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-18 08:54:27 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 08:54:27 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 08:54:37 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 10.932 seconds (JVM running for 13.995)
+2021-08-18 08:54:46 [http-nio-8082-exec-1] ERROR c.l.e.e.GlobalExceptionHandler -
+                Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Object> com.lister.employeeonboardingsystem.controller.HrController.addLoginInfo(com.lister.employeeonboardingsystem.voobject.InviteInput) with 3 errors: [Field error in object 'inviteInput' on field 'password': rejected value [null]; codes [NotNull.inviteInput.password,NotNull.password,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.password,password]; arguments []; default message [password]]; default message [password must not be null]] [Field error in object 'inviteInput' on field 'name': rejected value [null]; codes [NotNull.inviteInput.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.name,name]; arguments []; default message [name]]; default message [name must not be null]] [Field error in object 'inviteInput' on field 'email': rejected value [null]; codes [NotNull.inviteInput.email,NotNull.email,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.email,email]; arguments []; default message [email]]; default message [Email must be entered]] 
+2021-08-18 08:54:46 [http-nio-8082-exec-1] ERROR c.l.e.e.GlobalExceptionHandler -
+                error found{timestamp=2021-08-18T08:54:46.749, status=400, errors=[password must not be null, name must not be null, Email must be entered]}
+2021-08-18 08:55:47 [http-nio-8082-exec-4] ERROR c.l.e.e.GlobalExceptionHandler -
+                Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Object> com.lister.employeeonboardingsystem.controller.HrController.addLoginInfo(com.lister.employeeonboardingsystem.voobject.InviteInput): [Field error in object 'inviteInput' on field 'password': rejected value [null]; codes [NotNull.inviteInput.password,NotNull.password,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.password,password]; arguments []; default message [password]]; default message [password must not be null]] 
+2021-08-18 08:55:47 [http-nio-8082-exec-4] ERROR c.l.e.e.GlobalExceptionHandler -
+                error found{timestamp=2021-08-18T08:55:47.408, status=400, errors=[password must not be null]}
+2021-08-18 08:56:44 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 19720 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-18 08:56:44 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 08:56:44 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 08:56:54 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 11.245 seconds (JVM running for 14.751)
+2021-08-18 08:57:01 [http-nio-8082-exec-1] ERROR c.l.e.e.GlobalExceptionHandler -
+                Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Object> com.lister.employeeonboardingsystem.controller.HrController.addLoginInfo(com.lister.employeeonboardingsystem.voobject.InviteInput) with 2 errors: [Field error in object 'inviteInput' on field 'password': rejected value [null]; codes [NotNull.inviteInput.password,NotNull.password,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.password,password]; arguments []; default message [password]]; default message [password must not be null]] [Field error in object 'inviteInput' on field 'role': rejected value [0]; codes [Positive.inviteInput.role,Positive.role,Positive.int,Positive]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [inviteInput.role,role]; arguments []; default message [role]]; default message [role must not be null]] 
+2021-08-18 08:57:01 [http-nio-8082-exec-1] ERROR c.l.e.e.GlobalExceptionHandler -
+                error found{timestamp=2021-08-18T08:57:01.400, status=400, errors=[password must not be null, role must not be null]}
+2021-08-18 09:01:52 [main] INFO  c.l.e.a.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 8836 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-18 09:01:52 [main] DEBUG c.l.e.a.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-18 09:01:52 [main] INFO  c.l.e.a.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-18 09:01:58 [main] INFO  c.l.e.a.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 6.945 seconds (JVM running for 9.288)

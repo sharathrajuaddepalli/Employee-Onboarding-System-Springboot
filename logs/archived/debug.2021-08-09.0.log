@@ -1,0 +1,24 @@
+2021-08-09 22:40:24 [main] INFO  c.l.e.c.EmployeeControllerTest -
+                Starting EmployeeControllerTest using Java 1.8.0_292 on LT-NB-449 with PID 8900 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\emplyee-onboarding-system)
+2021-08-09 22:40:24 [main] DEBUG c.l.e.c.EmployeeControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-09 22:40:24 [main] INFO  c.l.e.c.EmployeeControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-09 22:40:49 [main] INFO  c.l.e.c.EmployeeControllerTest -
+                Started EmployeeControllerTest in 26.418 seconds (JVM running for 31.913)
+2021-08-09 22:41:31 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_292 on LT-NB-449 with PID 17536 (C:\Users\sharathkumarraju.a\Downloads\demo\emplyee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\emplyee-onboarding-system)
+2021-08-09 22:41:31 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-09 22:41:31 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-09 22:41:41 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 10.955 seconds (JVM running for 13.8)
+2021-08-09 22:44:04 [http-nio-9791-exec-2] INFO  c.l.e.controller.Employee -
+                getting the employee details with id1
+2021-08-09 22:44:04 [http-nio-9791-exec-2] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id1
+2021-08-09 22:44:16 [http-nio-9791-exec-3] INFO  c.l.e.controller.Hr -
+                Retreiving all employees
+2021-08-09 22:44:16 [http-nio-9791-exec-3] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve all employee details

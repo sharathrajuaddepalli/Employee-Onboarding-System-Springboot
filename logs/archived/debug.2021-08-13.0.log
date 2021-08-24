@@ -1,0 +1,156 @@
+2021-08-13 09:48:48 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 9288 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-13 09:48:48 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-13 09:48:48 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-13 09:48:59 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 11.713 seconds (JVM running for 15.569)
+2021-08-13 09:49:54 [http-nio-8082-exec-2] DEBUG c.l.e.controller.Login -
+                Request com.lister.employeeonboardingsystem.voobject.LoginInput@1bb491d
+2021-08-13 09:49:54 [http-nio-8082-exec-2] INFO  c.l.e.service.UserService -
+                tried to login with emailsharathrajuaddepalli@gmail.com
+2021-08-13 09:49:55 [http-nio-8082-exec-2] DEBUG c.l.e.controller.Login -
+                Response com.lister.employeeonboardingsystem.voobject.LoginResponseVo@4196590f
+2021-08-13 09:49:55 [http-nio-8082-exec-3] INFO  c.l.e.controller.Hr -
+                Retrieving all employees
+2021-08-13 09:49:55 [http-nio-8082-exec-3] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve all employee details
+2021-08-13 09:49:57 [http-nio-8082-exec-4] INFO  c.l.e.controller.Hr -
+                retrieving all roles
+2021-08-13 09:50:26 [http-nio-8082-exec-7] INFO  c.l.e.controller.Hr -
+                Inviting the employeekomalipyla@gmail.com
+2021-08-13 09:50:26 [http-nio-8082-exec-7] INFO  c.l.e.service.Invite -
+                tried to add new user with email idkomalipyla@gmail.com
+2021-08-13 09:50:26 [http-nio-8082-exec-7] INFO  c.l.e.service.DemographicsService -
+                trying to generate the code
+2021-08-13 09:50:26 [http-nio-8082-exec-7] INFO  c.l.e.service.DemographicsService -
+                save Demographics called successfully when savingLIS2409
+2021-08-13 09:51:47 [http-nio-8082-exec-9] INFO  c.l.e.controller.Hr -
+                Retrieving all employees
+2021-08-13 09:51:47 [http-nio-8082-exec-9] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve all employee details
+2021-08-13 09:52:25 [http-nio-8082-exec-1] DEBUG c.l.e.controller.Login -
+                Request com.lister.employeeonboardingsystem.voobject.LoginInput@15d95a5f
+2021-08-13 09:52:25 [http-nio-8082-exec-1] INFO  c.l.e.service.UserService -
+                tried to login with emailkomalipyla@gmail.com
+2021-08-13 09:52:25 [http-nio-8082-exec-1] DEBUG c.l.e.controller.Login -
+                Response com.lister.employeeonboardingsystem.voobject.LoginResponseVo@2097ddc2
+2021-08-13 09:55:47 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 16660 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-13 09:55:47 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-13 09:55:47 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-13 09:56:02 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 14.927 seconds (JVM running for 17.26)
+2021-08-13 09:58:41 [http-nio-8082-exec-2] INFO  c.l.e.controller.Employee -
+                saving the employee details47
+2021-08-13 09:58:41 [http-nio-8082-exec-2] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 09:58:41 [http-nio-8082-exec-2] INFO  c.l.e.service.DemographicsService -
+                save Demographics called successfully when savingLIS2409
+2021-08-13 09:59:57 [http-nio-8082-exec-4] DEBUG c.l.e.controller.Login -
+                Request com.lister.employeeonboardingsystem.voobject.LoginInput@43e923c0
+2021-08-13 09:59:57 [http-nio-8082-exec-4] INFO  c.l.e.service.UserService -
+                tried to login with emailkomalipyla@gmail.com
+2021-08-13 09:59:57 [http-nio-8082-exec-4] DEBUG c.l.e.controller.Login -
+                Response com.lister.employeeonboardingsystem.voobject.LoginResponseVo@6b45e54d
+2021-08-13 09:59:57 [http-nio-8082-exec-5] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 09:59:57 [http-nio-8082-exec-5] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 09:59:57 [http-nio-8082-exec-6] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 09:59:57 [http-nio-8082-exec-6] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:02:44 [http-nio-8082-exec-10] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:02:44 [http-nio-8082-exec-10] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:02:44 [http-nio-8082-exec-9] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:02:44 [http-nio-8082-exec-9] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:03:14 [http-nio-8082-exec-2] DEBUG c.l.e.controller.Login -
+                Request com.lister.employeeonboardingsystem.voobject.LoginInput@59f2d704
+2021-08-13 10:03:14 [http-nio-8082-exec-2] INFO  c.l.e.service.UserService -
+                tried to login with emailkomalipyla@gmail.com
+2021-08-13 10:03:14 [http-nio-8082-exec-2] DEBUG c.l.e.controller.Login -
+                Response com.lister.employeeonboardingsystem.voobject.LoginResponseVo@5675980e
+2021-08-13 10:03:14 [http-nio-8082-exec-3] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:03:14 [http-nio-8082-exec-3] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:03:14 [http-nio-8082-exec-4] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:03:14 [http-nio-8082-exec-4] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:06:06 [http-nio-8082-exec-6] DEBUG c.l.e.controller.Login -
+                Request com.lister.employeeonboardingsystem.voobject.LoginInput@5586bd7f
+2021-08-13 10:06:06 [http-nio-8082-exec-6] INFO  c.l.e.service.UserService -
+                tried to login with emailkomalipyla@gmail.com
+2021-08-13 10:06:06 [http-nio-8082-exec-6] DEBUG c.l.e.controller.Login -
+                Response com.lister.employeeonboardingsystem.voobject.LoginResponseVo@414c2ff4
+2021-08-13 10:06:07 [http-nio-8082-exec-7] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:06:07 [http-nio-8082-exec-7] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:06:07 [http-nio-8082-exec-8] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:06:07 [http-nio-8082-exec-8] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:07:49 [http-nio-8082-exec-9] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:07:49 [http-nio-8082-exec-9] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:07:49 [http-nio-8082-exec-1] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:07:49 [http-nio-8082-exec-1] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:09:57 [http-nio-8082-exec-3] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:09:57 [http-nio-8082-exec-3] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 10:09:57 [http-nio-8082-exec-4] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 10:09:57 [http-nio-8082-exec-4] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 12:22:25 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 19444 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-13 12:22:25 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-13 12:22:25 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-13 12:22:31 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 6.078 seconds (JVM running for 8.213)
+2021-08-13 12:22:53 [http-nio-8082-exec-2] DEBUG c.l.e.controller.Login -
+                Request com.lister.employeeonboardingsystem.voobject.LoginInput@39b56104
+2021-08-13 12:22:53 [http-nio-8082-exec-2] INFO  c.l.e.service.UserService -
+                tried to login with emailkomalipyla@gmail.com
+2021-08-13 12:22:54 [http-nio-8082-exec-2] DEBUG c.l.e.controller.Login -
+                Response com.lister.employeeonboardingsystem.voobject.LoginResponseVo@1c33e977
+2021-08-13 12:22:54 [http-nio-8082-exec-4] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 12:22:54 [http-nio-8082-exec-4] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 12:22:54 [http-nio-8082-exec-3] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 12:22:54 [http-nio-8082-exec-3] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 12:25:54 [http-nio-8082-exec-7] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 12:25:54 [http-nio-8082-exec-7] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 12:25:54 [http-nio-8082-exec-8] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 12:25:54 [http-nio-8082-exec-8] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 12:27:41 [http-nio-8082-exec-10] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 12:27:41 [http-nio-8082-exec-10] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47
+2021-08-13 12:27:41 [http-nio-8082-exec-1] INFO  c.l.e.controller.Employee -
+                getting the employee details with id47
+2021-08-13 12:27:41 [http-nio-8082-exec-1] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id47

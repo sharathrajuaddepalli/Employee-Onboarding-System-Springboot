@@ -1,0 +1,14 @@
+2021-08-17 16:04:33 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 17420 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-17 16:04:33 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 16:04:33 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 16:14:21 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Starting EmployeeOnboardingSystemApplication using Java 1.8.0_302 on LT-NB-449 with PID 12988 (C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system\target\classes started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-17 16:14:21 [main] DEBUG c.l.e.EmployeeOnboardingSystemApplication -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-17 16:14:21 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                No active profile set, falling back to default profiles: default
+2021-08-17 16:14:33 [main] INFO  c.l.e.EmployeeOnboardingSystemApplication -
+                Started EmployeeOnboardingSystemApplication in 12.476 seconds (JVM running for 15.855)

@@ -1,0 +1,88 @@
+2021-08-20 20:06:12 [main] INFO  c.l.e.EmployeeControllerOnboardingSystemApplicationTests -
+                Starting EmployeeControllerOnboardingSystemApplicationTests using Java 1.8.0_302 on LT-NB-449 with PID 18372 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:06:12 [main] DEBUG c.l.e.EmployeeControllerOnboardingSystemApplicationTests -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:06:12 [main] INFO  c.l.e.EmployeeControllerOnboardingSystemApplicationTests -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:08:04 [main] INFO  c.l.e.controller.UserControllerTest -
+                Starting UserControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:08:04 [main] DEBUG c.l.e.controller.UserControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:08:04 [main] INFO  c.l.e.controller.UserControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:08:36 [main] INFO  c.l.e.controller.UserControllerTest -
+                Starting UserControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:08:36 [main] DEBUG c.l.e.controller.UserControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:08:36 [main] INFO  c.l.e.controller.UserControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:08:43 [main] INFO  c.l.e.controller.HrControllerTest -
+                Starting HrControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:08:43 [main] DEBUG c.l.e.controller.HrControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:08:43 [main] INFO  c.l.e.controller.HrControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:08:50 [main] INFO  c.l.e.controller.HrControllerTest -
+                Starting HrControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:08:50 [main] DEBUG c.l.e.controller.HrControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:08:50 [main] INFO  c.l.e.controller.HrControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:08:57 [main] INFO  c.l.e.controller.HrControllerTest -
+                Starting HrControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:08:57 [main] DEBUG c.l.e.controller.HrControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:08:57 [main] INFO  c.l.e.controller.HrControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:09:03 [main] INFO  c.l.e.controller.HrControllerTest -
+                Starting HrControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:09:03 [main] DEBUG c.l.e.controller.HrControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:09:03 [main] INFO  c.l.e.controller.HrControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:09:12 [main] INFO  c.l.e.service.EmailService -
+                tried to send mail toabwith uuidfc175347-0e8e-45ff-b129-758eb913d768
+2021-08-20 20:09:14 [main] INFO  c.l.e.service.UserService -
+                tried to login with emailsharathraju@gmail.comwith uuid0b6ba2ba-ccb0-428e-b7da-8ab93a74d446
+2021-08-20 20:09:14 [main] INFO  c.l.e.service.UserService -
+                saving the user with uuidc5e593ed-2037-45bc-aeed-2dd9e105bcd8
+2021-08-20 20:09:14 [main] INFO  c.l.e.service.UserService -
+                tried to login with emailsharathraju@gmail.comwith uuid22c464c2-7571-4097-877f-5f5e524fdd49
+2021-08-20 20:09:15 [main] INFO  c.l.e.c.EmployeeControllerControllerTest -
+                Starting EmployeeControllerControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:09:15 [main] DEBUG c.l.e.c.EmployeeControllerControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:09:15 [main] INFO  c.l.e.c.EmployeeControllerControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:09:23 [main] INFO  c.l.e.c.EmployeeControllerControllerTest -
+                Starting EmployeeControllerControllerTest using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:09:23 [main] DEBUG c.l.e.c.EmployeeControllerControllerTest -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:09:23 [main] INFO  c.l.e.c.EmployeeControllerControllerTest -
+                No active profile set, falling back to default profiles: default
+2021-08-20 20:09:31 [main] INFO  c.l.e.service.DemographicsService -
+                update Status function called successfully of acceptemployee with id33with uuide9cfa215-df78-4c61-ac2c-bce69c3c8703
+2021-08-20 20:09:31 [main] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id33with uuide9cfa215-df78-4c61-ac2c-bce69c3c8703
+2021-08-20 20:09:31 [main] ERROR c.l.e.service.DemographicsService -
+                invalid action sent : acceptwith uuide9cfa215-df78-4c61-ac2c-bce69c3c8703
+2021-08-20 20:09:31 [main] INFO  c.l.e.service.DemographicsService -
+                update Status function called successfully of acceptemployee with id33with uuid56bdf6e6-20c7-4fa1-94c3-7d3e0963d7ba
+2021-08-20 20:09:31 [main] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id33with uuid56bdf6e6-20c7-4fa1-94c3-7d3e0963d7ba
+2021-08-20 20:09:31 [main] ERROR c.l.e.service.DemographicsService -
+                invalid action sent : acceptwith uuid56bdf6e6-20c7-4fa1-94c3-7d3e0963d7ba
+2021-08-20 20:09:31 [main] INFO  c.l.e.service.DemographicsService -
+                save Demographics called successfully when saving with uuid200ad0a3-6b4e-43c0-aee7-4ea989e8a9ea
+2021-08-20 20:09:31 [main] INFO  c.l.e.service.DemographicsService -
+                update Status function called successfully of rejectemployee with id33with uuid72f54b84-9ff6-4ef9-855f-1f16d0a921ef
+2021-08-20 20:09:31 [main] INFO  c.l.e.service.DemographicsService -
+                tried to retrieve employee details with id33with uuid72f54b84-9ff6-4ef9-855f-1f16d0a921ef
+2021-08-20 20:09:32 [main] INFO  c.l.e.service.Invite -
+                tried to add new user with email idabwith uuid13e65d15-2f50-458e-adb9-f9aee2b6534c
+2021-08-20 20:09:35 [main] INFO  c.l.e.EmployeeControllerOnboardingSystemApplicationTests -
+                Starting EmployeeControllerOnboardingSystemApplicationTests using Java 1.8.0_302 on LT-NB-449 with PID 13752 (started by sharathkumarraju.a in C:\Users\sharathkumarraju.a\Downloads\demo\employee-onboarding-system)
+2021-08-20 20:09:35 [main] DEBUG c.l.e.EmployeeControllerOnboardingSystemApplicationTests -
+                Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-20 20:09:35 [main] INFO  c.l.e.EmployeeControllerOnboardingSystemApplicationTests -
+                No active profile set, falling back to default profiles: default
